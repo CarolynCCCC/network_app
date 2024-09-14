@@ -25,9 +25,7 @@ kiwisolver==1.4.7
 MarkupSafe
 matplotlib==3.9.2
 matplotlib-inline
-trypoints==0.4
 fonttools==4.53.1
-hdbscan==0.8.29
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.7
